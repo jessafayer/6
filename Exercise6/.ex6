@@ -1,2 +1,5 @@
-nano hello.py
+def say_hello():
+    print("Hello from your Python script!")
 
+# Call the function when the script is run
+say_hello()
