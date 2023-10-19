@@ -6,4 +6,12 @@ def say_hello():
 say_hello()
 
 
+def say_goodbye():
+    print("Goodbye")
+
+say_goodbye()
+
+
+
+
 
